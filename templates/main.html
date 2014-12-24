@@ -1,0 +1,17 @@
+<div ng-include="'/templates/header.html'" ></div>
+<div class="row">
+  <div class="col-md-1">
+	<ul class="list-group" ng-repeat="page in menuObjects.menuitems | filter: {url:path}:true " >
+		<li class = "list-group-item" ng-class="(menuObjects.sublocation==item.template)?'active':''"  ng-repeat ="item in page.items |orderBy:'order':false">
+			<a ng-click="menuObjects.changehomesublocation(item)">
+			  <span ng-class="item.icon"></span> {{item.name}}
+			</a>	
+		</li> 
+	</ul>
+</div>
+  <div class="col-md-11"  ng-include="menuObjects.homesublocation"></div>
+</div>
+
+
+
+

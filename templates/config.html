@@ -1,0 +1,9 @@
+<ng-include src="'templates/header.html'"></ng-include>
+<ul class="nav nav-tabs" ng-repeat="page in menuObjects.menuitems | filter: {url:path} " >
+  	<li ng-class="(menuObjects.sublocation==item.template)?'active':''" role = "presentation" ng-repeat ="item in page.items |orderBy:'order':false">
+		<a ng-click="menuObjects.changesublocation(item)">
+		  <span ng-class="item.icon"></span> {{item.name}}
+		</a>	
+	</li> 
+</ul>
+<ng-include src="menuObjects.sublocation"></ng-include>
