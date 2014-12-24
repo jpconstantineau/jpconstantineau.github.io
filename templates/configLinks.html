@@ -7,14 +7,14 @@
   				</div>	      		   
 		   </th>
 			
-			<th>Name</th>
-			<th>Category</th>
-			<th>URL</th>
+			<th><a href="" ng-click="predicate = 'name'; reverse=!reverse">Name</a></th>
+			<th><a href="" ng-click="predicate = 'category'; reverse=!reverse">Category</a></th>
+			<th><a href="" ng-click="predicate = 'url'; reverse=!reverse">URL</a></th>
 			<th>Icon</th>
 		</tr>
 	</thead>
 	<tbody>
-	   <tr ng-repeat = "object in model.Links |filter:search.string" ng-include="objectactions.getTemplate(object)">
+	   <tr ng-repeat = "object in model.Links |filter:search.string | orderBy:predicate:reverse" ng-include="objectactions.getTemplate(object)">
 	   </tr>
 	</tbody>
 </table>
