@@ -33,6 +33,7 @@ jpcApp.factory('Objects', ['$resource',
     });
   }]);
 
+   
 jpcApp.service('menuObjects', ['$location',function ($location) {
    this.portfolio = '';
    this.brand={
@@ -115,16 +116,55 @@ jpcApp.service('menuObjects', ['$location',function ($location) {
    ];
 }]);
 
-jpcApp.controller('MainCtrl',['$scope','$location','menuObjects','Objects',
-function ($scope,$location,menuObjects,Objects) {
+jpcApp.controller('MainCtrl',['$scope','$location','$http','menuObjects','Objects',
+function ($scope,$location,$http,menuObjects,Objects) {
 	$scope.path = $location.path();
 	 
     $scope.model={};
+	$scope.restavailable=false;
     $scope.search={string:''};
 	$scope.menuObjects = menuObjects;
 
 	$scope.model.Categories = Objects.query({objecttype:'Category'});
-	$scope.model.Links = Objects.query({objecttype:'Link'});
+	$scope.model.Categories.$promise.then(function (result) {
+			$scope.model.Categories = result;
+			$scope.model.Links = Objects.query({objecttype:'Link'});
+			$scope.restavailable=true;
+		},
+		function (error) {
+			console.log('error: REST Endpoint not available; Loading database from GitHub')
+			var mainInfo = null;
+			
+			function appendTransform(defaults, transform) {
+			  // We can't guarantee that the default transformation is an array
+			  defaults = angular.isArray(defaults) ? defaults : [defaults];
+			  // Append the new transformation to the defaults
+			  return defaults.splice(1,0,transform);
+			}
+
+			var doTransform = function (value){
+				return value;
+			}
+
+			$http({
+			  url: 'database/objects.db',
+			  method: 'GET',
+			  transformResponse: appendTransform($http.defaults.transformResponse,function(value) {
+				return doTransform(value);
+			  })
+			}).success(function(data) {
+			    var processeddata = JSON.parse('[' +data.replace(/(\r\n|\n|\r)/gm,"").replace(/(}{")/gm, '},{"')+ ']');
+				$scope.model.Categories = [];	
+				$scope.model.Links = [];
+				processeddata.forEach( function (obj) {
+					if (obj.objecttype=='Category') {$scope.model.Categories.push(obj);}
+					if (obj.objecttype=='Link') {$scope.model.Links.push(obj);}
+				})
+			});
+						
+		}
+		);
+	
 	
 	$scope.objectactions={};
     $scope.objectactions.editingobject={};

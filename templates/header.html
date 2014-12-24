@@ -20,7 +20,7 @@
       			</a>
       		</li>
       </ul>
-      <ul class="nav navbar-nav navbar-right">
+      <ul class="nav navbar-nav navbar-right" ng-show = "restavailable">
    		<li ng-class = "(path==item.url)?'active':''" ng-repeat="item in menuObjects.menuitems | filter: {location:'right'} | orderBy:'order':false">
    			<a ng-click="menuObjects.changelocation(item)">
    				<span ng-class="item.icon"></span> {{item.name}}
