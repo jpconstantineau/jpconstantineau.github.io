@@ -41,6 +41,7 @@
 {"stale":null,"objecttype":"Category","name":"Linux - FreeBSD","_id":"SPDqYjFzuWvu6kuH","column":6,"icon":"fa fa-linux"}
 {"stale":null,"objecttype":"Category","name":"Node.js","_id":"SfMSSHPhupNbyZ9Z","column":3,"icon":"fa fa-tachometer"}
 {"stale":null,"objecttype":"Link","name":"To Do","category":"UnnwxUcAyUuW4yq2","_id":"T78dEo3ro6gN3LN8","url":"http://www.toodledo.com/tasks/index.php#folder","icon":"glyphicon glyphicon-ok"}
+{"stale":null,"objecttype":"Link","name":"PC Part Picker","category":"2HZJfrCRPowSE1II","_id":"Tjvay61emSVHNRMb","url":"https://pcpartpicker.com/"}
 {"stale":null,"objecttype":"Link","name":"Chain Reaction Cycles","category":"HGsIeQKzlraBGKib","_id":"UBbznmEHp0C8djfs","url":"http://www.chainreactioncycles.com/ca/en","icon":"glyphicon glyphicon-shopping-cart"}
 {"stale":null,"objecttype":"Category","name":"Entertainment","_id":"UEYFILXRrganl9Y6","column":5,"icon":"glyphicon glyphicon-facetime-video"}
 {"stale":null,"objecttype":"Link","name":"IPV6 Tunnelbroker","category":"7uAoguTQWT5ftylV","_id":"UGzjj1UEfYF7QWZo","url":"https://tunnelbroker.net/"}
