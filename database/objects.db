@@ -1,27 +1,25 @@
 {"stale":null,"objecttype":"Category","name":"Computer Stores","_id":"2HZJfrCRPowSE1II","column":4,"icon":"glyphicon glyphicon-shopping-cart"}
+{"stale":null,"objecttype":"Link","name":"Silverware - Whoop Firmware","category":"JCW3pjhXJwJCTAK8","_id":"2YYUn6HidJxcJw76","url":"http://sirdomsen.diskstation.me/dokuwiki/doku.php?id=start"}
 {"stale":null,"objecttype":"Link","name":"Kijiji","category":"2HZJfrCRPowSE1II","_id":"37PGyJkLH8TwOio1","url":"http://www.kijiji.ca/"}
 {"stale":null,"objecttype":"Link","name":"Bank of Montreal","category":"Cs2uX95V7gZav6Nc","_id":"56Fo3SbFEpuRBGs3","url":"http://www.bmo.com/main/personal","icon":"glyphicon glyphicon-usd"}
 {"stale":null,"objecttype":"Link","name":"Merlin Cycles","category":"HGsIeQKzlraBGKib","_id":"5PnCYPOkzynusFIi","url":"http://www.merlincycles.com/","icon":"glyphicon glyphicon-shopping-cart"}
 {"stale":null,"objecttype":"Link","name":"Vuejs","category":"hBOD0t7i1oyVDXtS","_id":"5gqZSZvdKBnCG8uk","url":"https://vuejs.org/"}
 {"stale":null,"objecttype":"Link","name":"Transmission","category":"kRMdIpswwM9xZC8J","_id":"63KhZgiKXj0e1EYB","url":"http://192.168.1.129:9091/transmission/web/"}
 {"stale":null,"objecttype":"Link","name":"ProBikeKit","category":"HGsIeQKzlraBGKib","_id":"6Drqo4IC3pOnNjyf","url":"https://www.probikekit.ca/home.dept"}
-{"stale":null,"objecttype":"Link","name":"Printer Toner Check","category":"kRMdIpswwM9xZC8J","_id":"6TLLgXhuHGqETGPh","url":"http://192.168.1.91/printer/configu.html"}
+{"stale":null,"objecttype":"Link","name":"Printer Toner Check","category":"kRMdIpswwM9xZC8J","_id":"6TLLgXhuHGqETGPh","url":"http://192.168.7.100/printer/configu.html"}
 {"stale":null,"objecttype":"Link","name":"711 Speakout Phone","category":"Cs2uX95V7gZav6Nc","_id":"6pC5C3RW0BGiryiS","url":"https://www.speakout7eleven.ca/login","icon":"fa fa-phone"}
 {"stale":null,"objecttype":"Link","name":"JQueryJS","category":"hBOD0t7i1oyVDXtS","_id":"7l5t06RY8bJcoBDd","url":"http://jquery.com/","icon":"fa fa-code-fork"}
-{"stale":null,"objecttype":"Link","name":"Movie PVR","category":"kRMdIpswwM9xZC8J","_id":"7smKaALStKaxX3r4","url":"http://192.168.1.8:5050/"}
 {"stale":null,"objecttype":"Category","name":"IT Management","_id":"7uAoguTQWT5ftylV","column":1}
 {"stale":null,"objecttype":"Link","name":"MEC","category":"HGsIeQKzlraBGKib","_id":"87nyFVBwrHSpKgcW","url":"http://mec.ca"}
+{"stale":null,"objecttype":"Link","name":"Zwift","category":"UEYFILXRrganl9Y6","_id":"8JpMVqVLlTu3ClmZ","url":"https://my.zwift.com/"}
 {"stale":null,"objecttype":"Link","name":"Nedb","category":"SfMSSHPhupNbyZ9Z","_id":"8XzRsxcgH7voyfp0","url":"https://github.com/louischatriot/nedb","icon":"fa fa-code-fork"}
-{"stale":null,"objecttype":"Link","name":"Plex","category":"UEYFILXRrganl9Y6","_id":"AQJ7WYFMxzehchfL","url":"http://192.168.1.3:32400/web/index.html"}
+{"stale":null,"objecttype":"Link","name":"Electron","category":"hBOD0t7i1oyVDXtS","_id":"AG1EyyEnqX4JbXa6","url":"https://electronjs.org/"}
 {"stale":null,"objecttype":"Category","name":"Finance","_id":"Cs2uX95V7gZav6Nc","column":2,"icon":"glyphicon glyphicon-home"}
 {"stale":null,"objecttype":"Link","name":"Thingiverse","category":"rW8GooDZ8of0AoVm","_id":"DW2HdXlJcjF0YU1q","url":"http://www.thingiverse.com/Jpconstantineau/collections"}
 {"stale":null,"objecttype":"Link","name":"Sprinklers","category":"kRMdIpswwM9xZC8J","_id":"DsKofwbYfqvUGAnk","url":"http://192.168.4.101"}
-{"stale":null,"objecttype":"Link","name":"NAS1","_id":"EhGBVGhNt7QNxbHW","category":"kRMdIpswwM9xZC8J","icon":"fa fa-archive","url":"http://NAS1"}
-{"stale":null,"objecttype":"Link","name":"NAS3","category":"kRMdIpswwM9xZC8J","_id":"EtSx9ui9fdJoLZUO","icon":"fa fa-archive","url":"http://NAS3"}
 {"stale":null,"objecttype":"Link","name":"IMBd","category":"UEYFILXRrganl9Y6","_id":"FFpBM1Q1ePB32wWq","url":"http://www.imdb.com/","icon":"glyphicon glyphicon-facetime-video"}
 {"stale":null,"objecttype":"Link","name":"Dynamic DNS","category":"7uAoguTQWT5ftylV","_id":"FMeQZkNjsHMIYXzF","url":"https://dns.he.net/"}
 {"stale":null,"objecttype":"Link","name":"Bike Hub Store","category":"HGsIeQKzlraBGKib","_id":"FkJF4Mh5HmfdNL5N","url":"http://www.bikehubstore.com/","icon":"glyphicon glyphicon-shopping-cart"}
-{"stale":null,"objecttype":"Link","name":"React-Router","category":"hBOD0t7i1oyVDXtS","_id":"FvZl0fYXD2CdPAow","url":"https://github.com/ReactTraining/react-router"}
 {"stale":null,"objecttype":"Category","name":"Bicycling","_id":"HGsIeQKzlraBGKib","column":4,"icon":"fa fa-bicycle"}
 {"stale":null,"objecttype":"Link","name":"ExpressJS","category":"SfMSSHPhupNbyZ9Z","_id":"Hni7ilWuxBjDxSze","url":"http://expressjs.com/","icon":"fa fa-code-fork"}
 {"stale":null,"objecttype":"Link","name":"D3.js","category":"hBOD0t7i1oyVDXtS","_id":"HuPIaW0JqySMOHUq","url":"http://d3js.org/","icon":"fa fa-pie-chart"}
@@ -30,14 +28,14 @@
 {"stale":null,"objecttype":"Link","name":"Restify for Nedb","category":"SfMSSHPhupNbyZ9Z","_id":"IcG4pbnjD7gzSex4","url":"https://github.com/dhigginbotham/restify-nedb","icon":"fa fa-code-fork"}
 {"stale":null,"objecttype":"Category","name":"Arduino","_id":"JCW3pjhXJwJCTAK8","column":6,"icon":"glyphicon glyphicon-hdd"}
 {"stale":null,"objecttype":"Link","name":"FREENAS","category":"kRMdIpswwM9xZC8J","_id":"K9cFwXmdI2RSydAy","url":"http://freenas","icon":"fa fa-archive"}
-{"stale":null,"objecttype":"Link","name":"Reactjs","category":"hBOD0t7i1oyVDXtS","_id":"KJzngikB6TLNeRd9","url":"https://facebook.github.io/react/"}
 {"stale":null,"objecttype":"Link","name":"Music","category":"UnnwxUcAyUuW4yq2","_id":"LMizcqFbeiIFfccG","url":"https://play.google.com/music/listen#/now"}
 {"stale":null,"objecttype":"Link","name":"Feedly","category":"UEYFILXRrganl9Y6","_id":"M3xSH0ArejklPPNQ","url":"http://feedly.com/i/my"}
 {"stale":null,"objecttype":"Link","name":"Arduino","category":"JCW3pjhXJwJCTAK8","_id":"MnJ6VuOlA08Ud4Lg","url":"https://www.arduino.cc/"}
 {"stale":null,"objecttype":"Link","name":"Saskatoon: Stonebridge","category":"fDmytQpI2kQ3G1LT","_id":"OEcOQKGMkjI4Vu5n","url":"https://www.wunderground.com/personal-weather-station/dashboard?ID=ISASKATC51"}
-{"stale":null,"objecttype":"Category","name":"Beermaking","_id":"PeRtq6p8XlNVjyRy","column":6,"icon":"fa fa-beer"}
 {"stale":null,"objecttype":"Link","name":"Ribble","category":"HGsIeQKzlraBGKib","_id":"QEIXwtZJbbX9Ubfk","url":"http://www.ribblecycles.co.uk/","icon":"glyphicon glyphicon-shopping-cart"}
 {"stale":null,"objecttype":"Link","name":"National Bank Direct Brokerage","category":"Cs2uX95V7gZav6Nc","_id":"RBhpc1XOhdqoseuf","url":"http://nbdb.ca/","icon":"glyphicon glyphicon-briefcase"}
+{"stale":null,"objecttype":"Link","name":"Memory Express","category":"2HZJfrCRPowSE1II","_id":"Rb1R9nnQkjIiNJlg","url":"https://www.memoryexpress.com/"}
+{"stale":null,"objecttype":"Link","name":"nrf52 feather forum","category":"JCW3pjhXJwJCTAK8","_id":"SBC9utaxkIp25wnl","url":"https://forums.adafruit.com/viewforum.php?f=57"}
 {"stale":null,"objecttype":"Category","name":"Linux - FreeBSD","_id":"SPDqYjFzuWvu6kuH","column":6,"icon":"fa fa-linux"}
 {"stale":null,"objecttype":"Category","name":"Node.js","_id":"SfMSSHPhupNbyZ9Z","column":3,"icon":"fa fa-tachometer"}
 {"stale":null,"objecttype":"Link","name":"To Do","category":"UnnwxUcAyUuW4yq2","_id":"T78dEo3ro6gN3LN8","url":"http://www.toodledo.com/tasks/index.php#folder","icon":"glyphicon glyphicon-ok"}
@@ -47,30 +45,32 @@
 {"stale":null,"objecttype":"Link","name":"IPV6 Tunnelbroker","category":"7uAoguTQWT5ftylV","_id":"UGzjj1UEfYF7QWZo","url":"https://tunnelbroker.net/"}
 {"stale":null,"objecttype":"Category","name":".Applications","_id":"UnnwxUcAyUuW4yq2","column":2,"icon":"glyphicon glyphicon-cloud"}
 {"stale":null,"objecttype":"Link","name":"AngularJS","category":"hBOD0t7i1oyVDXtS","_id":"UvN1z5Ez0JsEhOny","url":"https://angularjs.org/","icon":"fa fa-code-fork"}
-{"stale":null,"objecttype":"Link","name":"NCIX","_id":"Uvg8jGVH9SX6BYAE","category":"2HZJfrCRPowSE1II","url":"http://www.ncix.ca","icon":"glyphicon glyphicon-shopping-cart"}
 {"stale":null,"objecttype":"Link","name":"NodeJS","category":"SfMSSHPhupNbyZ9Z","_id":"V62Uj1dUT1ykGLpA","url":"http://nodejs.org/","icon":"fa fa-code-fork"}
 {"stale":null,"objecttype":"Link","name":"Saskatoon: Forecast - YXE","category":"fDmytQpI2kQ3G1LT","_id":"VoIFyXw2BY3qvX1o","url":"https://www.wunderground.com/weather/ca/saskatoon/CYXE"}
 {"stale":null,"objecttype":"Link","name":"Weather: Saskatoon","category":"fDmytQpI2kQ3G1LT","_id":"W0c6YNjvpzTGG0Rw","url":"http://www.wunderground.com/weather-forecast/zmw:00000.1.71866"}
-{"stale":null,"objecttype":"Link","name":"Octoprint","category":"rW8GooDZ8of0AoVm","_id":"WG4Vah569AHfI1zK","url":"http://192.168.1.49/"}
 {"stale":null,"objecttype":"Link","name":"Nashbar","category":"HGsIeQKzlraBGKib","_id":"WLDltGlA1fw9aj6V","url":"http://www.nashbar.com/bikes/TopCategories_10053_10052_-1"}
 {"stale":null,"objecttype":"Link","name":"pfSense","category":"SPDqYjFzuWvu6kuH","_id":"YSQJsb8njDV3lpCL","url":"https://www.pfsense.org/"}
 {"stale":null,"objecttype":"Link","name":"BestBuy","_id":"YxNTt6XS8TZ4yy36","category":"2HZJfrCRPowSE1II","url":"http://bestbuy.ca","icon":"glyphicon glyphicon-shopping-cart"}
 {"stale":null,"objecttype":"Link","name":"FreeBSD","category":"SPDqYjFzuWvu6kuH","_id":"ZTc4hasXfk0GnXlr","url":"https://www.freebsd.org/"}
+{"stale":null,"objecttype":"Link","name":"Paypal","category":"Cs2uX95V7gZav6Nc","_id":"ZV009Sg45LbLuh5S","url":"https://www.paypal.com/ca/signin"}
+{"stale":null,"objecttype":"Link","name":"Banggood","category":"2HZJfrCRPowSE1II","_id":"apfyVWKYbn7zZBJQ","url":"https://www.banggood.com/"}
 {"stale":null,"objecttype":"Link","name":"National Bank","category":"Cs2uX95V7gZav6Nc","_id":"bVnsaPvxXYGPdRUp","url":"https://www.nbc.ca/en/personal.html","icon":"glyphicon glyphicon-usd"}
+{"stale":null,"objecttype":"Link","name":"Feather Icons","category":"oC8pmjq1sOsGMljq","_id":"biflPIEjl4tdIoVW","url":"https://feathericons.com/"}
 {"stale":null,"objecttype":"Link","name":"Saskatoon: Lakeridge","category":"fDmytQpI2kQ3G1LT","_id":"boNVmYsFrqaTpMbU","url":"https://www.wunderground.com/personal-weather-station/dashboard?ID=ISKSASKA6"}
 {"stale":null,"objecttype":"Link","name":"DLink DAP-1650 Access Point","category":"7uAoguTQWT5ftylV","_id":"btfBmCNeY2bWYOFb","url":"http://192.168.1.49/","icon":"fa fa-wifi"}
 {"stale":null,"objecttype":"Link","name":"Bdop Cycling","category":"HGsIeQKzlraBGKib","_id":"cEGlAGd356Zu7NHy","url":"http://www.bdopcycling.com/","icon":"glyphicon glyphicon-shopping-cart"}
 {"stale":null,"objecttype":"Link","name":"OTV Tech","category":"2HZJfrCRPowSE1II","_id":"cyWXIFGwnKJlQBNv","icon":"glyphicon glyphicon-shopping-cart","url":"http://otvtech.com/"}
 {"stale":null,"objecttype":"Link","name":"GitHub","category":"oC8pmjq1sOsGMljq","_id":"dUC43xSQppBcBQJF","url":"https://github.com/jpconstantineau","icon":"fa fa-github"}
+{"stale":null,"objecttype":"Link","name":"Linode Manager","category":"7uAoguTQWT5ftylV","_id":"eQamuEqprO87v0P5","url":"https://manager.linode.com/"}
+{"stale":null,"objecttype":"Link","name":"Discord - BlueMicro","category":"JCW3pjhXJwJCTAK8","_id":"f7KHNQ7SQlYibP1D","url":"https://discordapp.com/channels/449593318247235589/449593318247235591"}
 {"stale":null,"objecttype":"Category","name":".Weather","_id":"fDmytQpI2kQ3G1LT","column":5,"icon":"fa fa-cloud"}
-{"stale":null,"objecttype":"Link","name":"NAS2","category":"kRMdIpswwM9xZC8J","_id":"fHdE1GqonSDGMaRZ","icon":"fa fa-archive","url":"http://NAS2"}
 {"stale":null,"objecttype":"Link","name":"TigerDirect","category":"2HZJfrCRPowSE1II","_id":"fJ9MWRP6NTcvsc4e","url":"http://www.tigerdirect.ca/","icon":"glyphicon glyphicon-shopping-cart"}
 {"stale":null,"objecttype":"Link","name":"Awesome Icons","_id":"gdP9q4zE6kHyFZgV","category":"oC8pmjq1sOsGMljq","url":"http://fortawesome.github.io/Font-Awesome/icons/","icon":"fa fa-smile-o"}
 {"stale":null,"objecttype":"Category","name":"Javascript","_id":"hBOD0t7i1oyVDXtS","icon":"fa fa-code","column":3}
 {"stale":null,"objecttype":"Link","name":"pfSense-ntop","category":"kRMdIpswwM9xZC8J","_id":"hpInf5B0k33e4CJY","url":"https://192.168.1.1:3000/"}
 {"stale":null,"objecttype":"Link","name":"Server Monitor","category":"kRMdIpswwM9xZC8J","_id":"i6WavosyNLkTPg39","url":"http://fractal/monitor/"}
 {"stale":null,"objecttype":"Link","name":"Capital One","category":"Cs2uX95V7gZav6Nc","_id":"idvvxjKZHVfkA1hi","url":"https://www.capitalonecardservice.ca/","icon":"glyphicon glyphicon-credit-card"}
-{"stale":null,"objecttype":"Link","name":"Router","category":"7uAoguTQWT5ftylV","_id":"itUzwzfJZKhEAxmN","url":"http://192.168.1.1","icon":"fa fa-wifi"}
+{"stale":null,"objecttype":"Link","name":"Router","category":"7uAoguTQWT5ftylV","_id":"itUzwzfJZKhEAxmN","url":"https://192.168.1.1","icon":"fa fa-wifi"}
 {"stale":null,"objecttype":"Link","name":"Wiggle","category":"HGsIeQKzlraBGKib","_id":"iyGStxYUvLPlA4Kk","url":"http://www.wiggle.co.uk/","icon":"glyphicon glyphicon-shopping-cart"}
 {"stale":null,"objecttype":"Category","name":".Home IT Management","_id":"kRMdIpswwM9xZC8J","column":1,"icon":"glyphicon glyphicon-cog"}
 {"stale":null,"objecttype":"Link","name":"EZTV","category":"UEYFILXRrganl9Y6","_id":"kfLbuPViZMoCBzgn","url":"https://eztv.ag/","icon":"glyphicon glyphicon-floppy-save"}
@@ -80,8 +80,8 @@
 {"stale":null,"objecttype":"Category","name":"Web Development","_id":"oC8pmjq1sOsGMljq","column":3,"icon":"glyphicon glyphicon-tasks"}
 {"stale":null,"objecttype":"Link","name":"Ebay.ca","category":"2HZJfrCRPowSE1II","_id":"oOftu3jqpck8KzwF","url":"http://www.ebay.ca/myb/WatchList?MyEbay&gbh=1"}
 {"stale":null,"objecttype":"Link","name":"Jenson USA","category":"HGsIeQKzlraBGKib","_id":"oPLoUAkjlMwphos5","url":"http://www.jensonusa.com/","icon":"glyphicon glyphicon-shopping-cart"}
+{"stale":null,"objecttype":"Link","name":"C60M1","category":"kRMdIpswwM9xZC8J","_id":"pl1qP8ZDSIb0BEGm","url":"https://c60m1.jpconstantineau.com:10000/"}
 {"stale":null,"objecttype":"Link","name":"Newegg.ca","category":"2HZJfrCRPowSE1II","_id":"q2SBKLcD0fR0dkuB","url":"http://www.newegg.ca/","icon":"glyphicon glyphicon-shopping-cart"}
-{"stale":null,"objecttype":"Link","name":"TV PVR","category":"kRMdIpswwM9xZC8J","_id":"q8b8Tp0WCvulALia","url":"http://192.168.1.9:8081/home/"}
 {"stale":null,"objecttype":"Category","name":"3D Printing","_id":"rW8GooDZ8of0AoVm","column":6,"icon":"glyphicon glyphicon-print"}
 {"stale":null,"objecttype":"Link","name":"TV Guide","category":"UEYFILXRrganl9Y6","_id":"rpejcDUCs73GXaty","url":"http://www.tvtv.ca/sk/saskatoon/lu39951","icon":"glyphicon glyphicon-picture"}
 {"stale":null,"objecttype":"Link","name":"FRACTAL","_id":"uye5QgjPf3v9gtri","category":"kRMdIpswwM9xZC8J","url":"https://fractal:10000/","icon":"glyphicon glyphicon-cog"}
