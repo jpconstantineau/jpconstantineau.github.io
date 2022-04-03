@@ -1,6 +1,6 @@
 {
     "apps" : [
-	    {"name":"Name of app 1","url":"sub1.example.com","icon":"icon-name"},
+	    {"name":"email","url":"mail.google.com","icon":"icon-mail"},
 	    {"name":"Name of app 2","url":"sub2.example.com","icon":"icon-name","target":"optionals"}
     ]
 }

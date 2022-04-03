@@ -1,19 +1,23 @@
 {
   "bookmarks":[
     {
-      "category": "Icons-Graphics",
+      "category": "Local IT Management",
       "links": [
         {
-          "name": "Nucleo icons",
-          "url": "https://nucleoapp.com/"
+          "name": "Truenas - Storage",
+          "url": "http://storage/"
         },
         {
-          "name": "unDraw illustrations",
-          "url": "https://undraw.co/illustrations"
+          "name": "Truenas - Freenas",
+          "url": "http://freenas"
         },
         {
-          "name": "Flexiple illustrations",
-          "url": "https://2.flexiple.com/scale/home"
+          "name": "pfsense",
+          "url": "http://192.168.1.1"
+        },
+        {
+          "name": "Access Point",
+          "url": "http://192.168.1.1"
         }
       ]
     },
@@ -21,8 +25,12 @@
       "category": "Cloud Computing",
       "links": [
         {
-          "name": "Cloudalize",
-          "url": "https://my.hay01.gdaas.com/"
+          "name": "Linode",
+          "url": "https://cloud.linode.com/"
+        },
+        {
+          "name": "Oracle Cloud",
+          "url": "https://cloud.oracle.com/"
         },
         {
           "name": "Azure Portal",
@@ -52,8 +60,8 @@
               "url":"http://example.com"
            },
            {
-              "name":"Link2",
-              "url":"http://example.com"
+              "name":"to do",
+              "url":"https://www.toodledo.com/tasks/index.php#folder"
            }
         ]
      }
