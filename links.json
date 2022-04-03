@@ -39,15 +39,19 @@
       ]
     },
      {
-        "category":"Category1",
+        "category":"DNS/Domains",
         "links":[
            {
-              "name":"Link1",
-              "url":"http://example.com"
+              "name":"DNS - jpconstantineau.com",
+              "url":"https://dns.he.net/"
            },
            {
-              "name":"Link2",
-              "url":"http://example.com",
+            "name":"DNS - jpto.dev",
+            "url":"https://account.godaddy.com/products"
+         },
+           {
+              "name":"IPV6",
+              "url":"https://tunnelbroker.net/",
               "target":"optionals"
            }
         ]

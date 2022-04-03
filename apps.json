@@ -1,6 +1,10 @@
 {
     "apps" : [
-	    {"name":"email","url":"mail.google.com","icon":"icon-mail"},
-	    {"name":"Name of app 2","url":"sub2.example.com","icon":"icon-name","target":"optionals"}
+	    {"name":"Gmail","url":"mail.google.com","icon":"gmail","target":"optionals"},
+	    {"name":"BlueMicro Store","url":"store.jpconstantineau.com","icon":"cart","target":"optionals"},
+        {"name":"Tindie","url":"www.tindie.com/orders/","icon":"cart","target":"optionals"},
+        {"name":"Paypal","url":"www.paypal.com","icon":"paypal","target":"optionals"},
+        {"name":"Ship","url":"www.canadapost.ca","icon":"truck","target":"optionals"},
+        {"name":"Discord","url":"discordapp.com/channels/449593318247235589/449593318247235591","icon":"discord","target":"optionals"}
     ]
 }
