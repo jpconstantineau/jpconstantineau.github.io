@@ -1,0 +1,6 @@
+{
+    "apps" : [
+	    {"name":"Name of app 1","url":"sub1.example.com","icon":"icon-name"},
+	    {"name":"Name of app 2","url":"sub2.example.com","icon":"icon-name","target":"optionals"}
+    ]
+}

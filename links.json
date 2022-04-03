@@ -1,0 +1,61 @@
+{
+  "bookmarks":[
+    {
+      "category": "Icons-Graphics",
+      "links": [
+        {
+          "name": "Nucleo icons",
+          "url": "https://nucleoapp.com/"
+        },
+        {
+          "name": "unDraw illustrations",
+          "url": "https://undraw.co/illustrations"
+        },
+        {
+          "name": "Flexiple illustrations",
+          "url": "https://2.flexiple.com/scale/home"
+        }
+      ]
+    },
+    {
+      "category": "Cloud Computing",
+      "links": [
+        {
+          "name": "Cloudalize",
+          "url": "https://my.hay01.gdaas.com/"
+        },
+        {
+          "name": "Azure Portal",
+          "url": "https://portal.azure.com/#home"
+        }
+      ]
+    },
+     {
+        "category":"Category1",
+        "links":[
+           {
+              "name":"Link1",
+              "url":"http://example.com"
+           },
+           {
+              "name":"Link2",
+              "url":"http://example.com",
+              "target":"optionals"
+           }
+        ]
+     },
+     {
+        "category":"Category2",
+        "links":[
+           {
+              "name":"Link1",
+              "url":"http://example.com"
+           },
+           {
+              "name":"Link2",
+              "url":"http://example.com"
+           }
+        ]
+     }
+  ]
+}
