@@ -4,12 +4,16 @@
       "category": "Local IT Management",
       "links": [
         {
-          "name": "Truenas - Storage",
-          "url": "http://storage/"
+          "name": "Truenas - Storage - i7",
+          "url": "http://storage.jpconstantineau.com/"
         },
         {
-          "name": "Truenas - Freenas",
-          "url": "http://freenas"
+          "name": "Truenas - Truenas - N100",
+          "url": "http://truenas.jpconstantineau.com/"
+        },
+        {
+          "name": "Truenas - Freenas - N305",
+          "url": "http://freenas.jpconstantineau.com/"
         },
         {
           "name": "pfsense",
@@ -17,7 +21,7 @@
         },
         {
           "name": "Access Point",
-          "url": "http://192.168.1.1"
+          "url": "http://192.168.1.245"
         }
       ]
     },
